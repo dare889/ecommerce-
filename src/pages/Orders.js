@@ -29,7 +29,7 @@ const Orders = () => {
         <thead>
           <tr>
             <th>ID</th>
-            <th>User</th>
+            <th>User Name</th>
             <th>Total Price</th>
             <th>Status</th>
             <th>Actions</th>
